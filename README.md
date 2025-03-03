@@ -41,7 +41,7 @@ For this project, only the first colum and fourth column are needed.
 
 
 ## Method
-![Image](diagram_hand.jpg)
+![Image](MileStone_2_Graph.png)
 #### This project uses **Bayes Network** to calculate P(Lie|Query)
 * The variable L∈{0,1} denotes whether a statement is a lie or not. True and mostly true are projected to L=1, while all others (Half-True, Mostly False, False, Pants on Fire!) are all projected as L=0.
 * The variable 𝑊𝑖∈{0,1} represents the presence of a specific word in the statement.

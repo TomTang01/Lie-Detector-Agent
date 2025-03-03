@@ -1,5 +1,5 @@
 # Lie-Detector-Agent
-**Modifications for Resubmition**: We think it is better to keep the modifications within each section of the README file. There has been some changes in the LieDetector.ipynb file as well, things like adding validation set and markdowns to explain each step.
+**Modifications for Resubmission**: We think it is better to keep the modifications within each section of the README file. There has been some changes in the LieDetector.ipynb file as well, things like adding validation set and markdowns to explain each step.
 ## Project Abstract Milestone1
 
 ## Introduction
